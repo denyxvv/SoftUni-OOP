@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\blur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\blur\\.nuget\\packages"
+    ]
+  }
+}

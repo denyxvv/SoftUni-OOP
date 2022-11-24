@@ -1,0 +1,14 @@
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\bin\Debug\netcoreapp3.1\01.CommandPattern.exe
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\bin\Debug\netcoreapp3.1\01.CommandPattern.deps.json
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\bin\Debug\netcoreapp3.1\01.CommandPattern.runtimeconfig.json
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\bin\Debug\netcoreapp3.1\01.CommandPattern.runtimeconfig.dev.json
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\bin\Debug\netcoreapp3.1\01.CommandPattern.dll
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\bin\Debug\netcoreapp3.1\01.CommandPattern.pdb
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.csproj.AssemblyReference.cache
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.AssemblyInfoInputs.cache
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.AssemblyInfo.cs
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.dll
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.pdb
+C:\Users\blur\source\repos\Reflection and Attributes - Exercise\01.CommandPattern\obj\Debug\netcoreapp3.1\01.CommandPattern.genruntimeconfig.cache
